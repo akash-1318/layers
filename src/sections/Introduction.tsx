@@ -45,7 +45,7 @@ export default function Introduction() {
                             ))}
                         </span>
                         <span className="text-lime-400 block">
-                            that's why we buil layers.
+                            that&apos;s why we buil layers.
                         </span>
                     </div>
                 </div>
